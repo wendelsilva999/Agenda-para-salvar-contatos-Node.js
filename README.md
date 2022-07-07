@@ -11,14 +11,21 @@ Back-end
 -Express
 
 Front-end
+
 -HTML
+
 -CSS
+
 -Bootstrap
 
 Segurança
+
 -helmet
+
 -Bcrypt (para gerar um hash de senha)
+
 -Csurf (evita o ataque Cross-Site Request Forgery)
 
 Banco de dados
+
 -MongoDB
