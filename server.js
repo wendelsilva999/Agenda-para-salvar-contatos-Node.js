@@ -62,7 +62,7 @@ app.use(routes)
 
 
 app.on('pronto', () => {
-    app.listen(process.env.APP_URL, () => {
+    app.listen(process.env.PORT || 3000, () => {
         console.log('Acessar http://localhost:3000')
         console.log('servidor executando na porta 3000')
     });
