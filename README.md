@@ -29,3 +29,7 @@ Segurança
 Banco de dados
 
 -MongoDB
+
+Empacotador de código
+
+-webpack (para criar um código que funcione na maioria dos navegadores)
