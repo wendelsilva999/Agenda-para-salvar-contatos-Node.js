@@ -1,6 +1,6 @@
 # Agenda-para-salvar-contatos-Node.js
 
-
+deploy no heroku (https://agenda-projeto.herokuapp.com/)
  
 Este projeto e um CRUD, criado com as aulas de um curso voltado ao desenvolvimento Back-end, o projeto e um site para salvar contatos servindo como agenda usando o padrão MVC, o app possui sistema de cadastro vinculado a um banco de dados MongoDB, o projeto foi criado para consolidar os conhecimentos aprendidos com o curso.
 
